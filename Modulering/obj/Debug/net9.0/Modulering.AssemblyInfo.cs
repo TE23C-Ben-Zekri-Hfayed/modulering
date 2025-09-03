@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modulering")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03f3dc352be2bc834734ecf9838a944891440737")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modulering")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modulering")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

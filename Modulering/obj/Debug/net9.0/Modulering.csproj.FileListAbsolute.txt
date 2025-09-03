@@ -1,0 +1,15 @@
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\bin\Debug\net9.0\Modulering.exe
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\bin\Debug\net9.0\Modulering.deps.json
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\bin\Debug\net9.0\Modulering.runtimeconfig.json
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\bin\Debug\net9.0\Modulering.dll
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\bin\Debug\net9.0\Modulering.pdb
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\obj\Debug\net9.0\Modulering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\obj\Debug\net9.0\Modulering.AssemblyInfoInputs.cache
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\obj\Debug\net9.0\Modulering.AssemblyInfo.cs
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\obj\Debug\net9.0\Modulering.csproj.CoreCompileInputs.cache
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\obj\Debug\net9.0\Modulering.sourcelink.json
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\obj\Debug\net9.0\Modulering.dll
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\obj\Debug\net9.0\refint\Modulering.dll
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\obj\Debug\net9.0\Modulering.pdb
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\obj\Debug\net9.0\Modulering.genruntimeconfig.cache
+C:\Users\hfayed.benzekri\Documents\modulering\Modulering\obj\Debug\net9.0\ref\Modulering.dll
